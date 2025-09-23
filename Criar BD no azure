@@ -1,0 +1,8 @@
+Criar banco de dados no Azure
+- criar BD
+- escolher o nme do BD
+- escolher o servidor * criar novo - colocar o nome do servidor 
+- localização
+- método de autenticação
+- redundância de armazenamento
+- antes de finalizar aparece uma estimativa de custo mensal mediante o que foi escolhido
