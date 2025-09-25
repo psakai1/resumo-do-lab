@@ -1,0 +1,16 @@
+Microsoft Entra ID  - serviço de gerenciamento de identidades baseado em nuvem do azure
+- autenticação
+- logon único sso
+- gerenciamento de aplicativos
+- b2b
+- gerenciamento de dispositivos
+
+
+Microsoft Entra Domain Service - sincroniza automaticamente a partir do Microsoft Entra ID
+
+- Autenticação x Autorização
+-MFA - autenticaçao multifator
+- Microsoft Entra External ID
+
+- acesso condicional
+- controle de acesso baseado em função - RBAC
