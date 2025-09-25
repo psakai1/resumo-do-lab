@@ -1,0 +1,22 @@
+Resumo aula armazenamento
+
+LRS - 11 - datacenter individual - armazenamento rede local
+ZRS - 12 - 3 zonas de desp na região 1a - armazenamento de zona
+GRS - 16 - datacenter unico na 1a e 2a região - armazenamento de zona geográfica
+GZRS - 16 - 3 zonas desp na reg 1a e um único datacenter na 2a - armazenamento de zona geográfica
+
+- BLOB DO AZURE
+- disco do azure
+- fila do azure
+- arquivos do azure
+- tabelas do azure
+
+Camadas de acesso de armazenamento
+- frequente
+- esporádico arm>30 dias
+- frio - arm>90 dias
+- arquivo morto arm>180 dias
+
+migrações 
+- azure data box
+- azcopy
