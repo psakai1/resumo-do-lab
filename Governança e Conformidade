@@ -1,0 +1,10 @@
+Azure policy
+bloqueio de recursos
+- proteger os recursos do azure de exclusão ou modificação acidental
+- gerenciar bloqueios na assinatura, grupo de recursos ou níveis de recursos individuais dentro do portal azure
+
+portal de confiança do serviço
+
+Microsoft Purview - família de soluções de governança , risco e conformidade de dados - exibição unificada de dados  reunião de insights sobre dados locais, multinuvem e de software como serviço
+
+regulamentação por país
