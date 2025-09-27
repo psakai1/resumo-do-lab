@@ -1,0 +1,21 @@
+Portal
+Power Shell
+CLI - Interface de Linha de Comando
+Azure Arc
+Azure Source Manager
+
+- Infraestrutura com código: 
+garantir consistência na implantação em todo o ecossistema de nuvem
+gerencie configurações em escala
+
+Modelos ARM (Azure Source Manager)
+- sintaxe declarativa
+- resultados repetitivos
+- orquestração
+- arquivos modulares
+- validação integrada
+- código exportável
+
+BICEP - 
+- modelo de linguagem para criar recursos
+- linguagem nativa da microsoft, não são comandos aceitos por outras nuvens
