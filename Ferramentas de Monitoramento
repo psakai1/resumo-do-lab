@@ -1,0 +1,12 @@
+Assistente do Azure 
+- analisa recursos implantados do Azure e faz recomendações com base nas práticas recomendadas para otimizar as implantações do Azure
+- confiabilidade , segurança, desempenho, custo , excelência operacional
+
+Integridade do Serviço Azure
+- coleção de serviços que mantém vc informado sobre o status geral do azure
+
+Resource Health 
+- exibição personalizada dos recursos reais do azure, fornece informações sobre integridade de seus recursos de nuvens individuais
+
+Azure Monitor
+- maximiza a disponibilidade e o desempenho de aplicativos e serviços coletando , analisando e tomando decisões com base na telemetria da nuvem e de ambientes locais
